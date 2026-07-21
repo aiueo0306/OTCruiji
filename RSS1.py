@@ -27,8 +27,8 @@ from browser_utils import click_button_in_order
 from browser_utils import click_button_in_order
 
 # ===== 固定情報（学会サイト） =====
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html"
-GAKKAI = "薬事審議会（医薬品等安全対策部会（安全対策調査会））"
+BASE_URL = "https://www.mhlw.go.jp/stf/shingi/other-hoken_282014_00001.html"
+GAKKAI = "ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会"
 
 SELECTOR_TITLE = "table.m-tableFlex tr"
 title_selector = ""
