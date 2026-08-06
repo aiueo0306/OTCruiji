@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 06 Aug 2026 08:27:58 +0000</lastBuildDate><item><title>【ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 06 Aug 2026 11:18:12 +0000</lastBuildDate><item><title>【ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,27 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:59ad5fab18eeafb15adcf73e76a611bc6995611c</guid></item><item><title>【ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会】【2026-08-05】第４回
+開催案内</description><guid isPermaLink="false">urn:newsitem:59ad5fab18eeafb15adcf73e76a611bc6995611c</guid></item><item><title>【ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会】中間とりまとめ
+－
+－
+－
+
+「ＯＴＣ類似薬の保険給付の見直しの実施に向けた中間とりまとめ」についてNEW
+8月6日
+
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/other-hoken_282014_00001.html</link><description>中間とりまとめ
+－
+－
+－
+
+「ＯＴＣ類似薬の保険給付の見直しの実施に向けた中間とりまとめ」についてNEW
+8月6日
+
+
+
+－</description><guid isPermaLink="false">urn:newsitem:6c37181898839fdd4800e46acf9cb5bb8af504eb</guid></item><item><title>【ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会】【2026-08-05】第４回
 
 
 2026年8月5日（令和8年8月5日）
